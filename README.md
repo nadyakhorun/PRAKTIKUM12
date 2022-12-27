@@ -1,10 +1,10 @@
 # PRAKTIKUM12
 
-NAMA    : NADYA KHAIRUNNISA
+NAMA        : NADYA KHAIRUNNISA
 
-NIM     : 312210133
+NIM         : 312210133
 
-KELAS   : TI.22.A1
+KELAS       : TI.22.A1
 
 ## DAFTAR ISI <br>
 | No | Description | Link |
